@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Gabriel</h1>
+<h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">Unlocking Insights: Navigating World's Data Realm with AI</h3>
 
 - 🔭 I’m currently working on [geladeirinha](https://github.com/gabrieldelmondess/geladeirinha)
